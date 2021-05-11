@@ -1,0 +1,7 @@
+*.fzn
+*.ozn
+
+flatten/_temp*
+
+__pycache__/
+venv/

@@ -1,0 +1,1 @@
+srun --cpus-per-task=1 --mem=4096 --nodelist="critical001" time -p $@
